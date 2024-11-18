@@ -104,9 +104,3 @@ Antes de realizar cualquier implementación, es importante realizar un análisis
 - **Frontend**: React, AG Grid, Plotly.js
 - **Base de Datos**: MySQL o MariaDB
 - **Otros**: Docker (opcional para contenerizar el proyecto), herramientas de despliegue como Heroku o AWS (opcional).
-
----
-
-## Conclusión
-
-El proyecto busca evaluar habilidades tanto en el backend como en el frontend, a través de la implementación de una base de datos, un microservicio de consulta y transformación de datos, y una interfaz interactiva que permita al usuario visualizar los resultados de manera clara.
